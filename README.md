@@ -56,7 +56,7 @@ or just vibing alone 🎧
     <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dzk5bG1uMG9scWRpZDFxNTl1dnp3NHF3Ym9kOTZ3YmZnZXpwcGltaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3T7WB64PW315Z8zhRg/giphy.gif" width="25"/>
     hiatus projects...
   </h3>
--  📚 <a href="https://github.com/seakss/[PROJECTREPONAME]"><b>[PROJECTNAME]</b></a>
+-  📚 <a href="https://github.com/textsource/NeverEnding"><b>NeverEnding</b></a>
 </p>
 
 ---
